@@ -14,6 +14,7 @@ venv/
 images/
 static/uploads/*
 !static/models/.gitkeep
+/static/models/bird_model_v2.pt
 
 # ----------------------
 # React / Node
