@@ -1,6 +1,6 @@
 # IDMYBIRD
 
-s a web application that allows users ti identify bird species by uploading an image. Powered by a FASTAPI backend and a machine learning model that can acurtaly predcit up to 200 diffrent bird spicies at 80% accuracy. The Front End is built with React.JS
+is web application that allows users ti identify bird species by uploading an image. Powered by a FASTAPI backend and a machine learning model that can acurtaly predcit up to 200 diffrent bird spicies at 80% accuracy. The Front End is built with React.JS
 
 
 Features:
