@@ -18,6 +18,7 @@ Steps:
 
 1. Clone Repository -
 git clone https://github.com/Lenue01/IDmyBird.git
+
 cd IDmyBird
 
 2. Backend Setup -
